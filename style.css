@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(32, 118, 156)
+}
+
+.logo img{
+  position: relative;
+  display:block;
+  margin:0 auto;
+  margin-top: 3%
+}
+
+#container-question {
+  background: rgb(240, 245, 226);
+  padding-top: 50px;
+  border-radius: 5px;
+  margin: 9%
+}
+
+#container-hasil {
+  position: relative;
+  background: rgb(240, 245, 226);
+  width: 30%;
+}
+
+h2 {
+  padding-bottom: 70px;
+}
+
+#container-answer {
+  height: 100px;
+  float: left;
+}
+
+#jawab {
+  padding: 30px 40px;
+  margin-left: 570px;
+}
+
+#muncul-soal {
+  padding: 30px 40px;
+  margin-left: 500px;
+  margin-top: 100px;
+}
